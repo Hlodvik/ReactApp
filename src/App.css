@@ -125,30 +125,4 @@ h1, h2, h3 {
   color: #666;
   margin-bottom: 15px;
 }
-
-/* Buttons */
-button {
-  background-color: #007bff;
-  color: #fff;
-  padding: 10px 20px;
-  border: none;
-  border-radius: 5px;
-  font-size: 1rem;
-  cursor: pointer;
-  transition: background-color 0.3s ease;
-}
-
-button:hover {
-  background-color: #0056b3;
-}
-
-button:focus {
-  outline: none;
-}
-
-/* Responsive Styles */
-@media (max-width: 768px) {
-  .product-list {
-    grid-template-columns: 1fr;
-  }
-}
+ 
